@@ -170,7 +170,7 @@ const Login = () => {
 
                     <div className="space-y-2 md:space-y-4 lg:space-y-6">
                         <div className="space-y-1 md:space-y-2">
-                            <div className="font-semibold text-pucho-dark text-sm md:text-base lg:text-lg">Pucho.ai's HR Dashboard</div>
+                            <div className="font-semibold text-pucho-dark text-sm md:text-base lg:text-lg">Pucho.ai's Leads Dashboards</div>
                             <div className="text-[10px] md:text-[11px] lg:text-xs font-bold text-purple-600 tracking-wider uppercase drop-shadow-sm">BUILT ON PUCHO.AI</div>
                         </div>
 
